@@ -1,5 +1,5 @@
 import React from "react";
-import "./features.scss";
+import "./features.css";
 import { ArrowDownward, ArrowUpward } from "@mui/icons-material";
 
 const Features = () => {

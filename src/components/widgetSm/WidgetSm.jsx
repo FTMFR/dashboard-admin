@@ -1,5 +1,5 @@
 import React from "react";
-import "./widgetSm.scss";
+import "./widgetSm.css";
 import { VisibilityOffOutlined } from "@mui/icons-material";
 import { newMembers } from "../../datas";
 

@@ -1,6 +1,6 @@
 import React from "react";
 import Features from "../../components/Features/Features";
-import "./home.scss";
+import "./home.css";
 import Chart from "../../components/Chart/Chart";
 import xAxiosData from "../../datas";
 import WidgetSm from "../../components/widgetSm/WidgetSm";

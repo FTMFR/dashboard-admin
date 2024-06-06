@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./sideBar.scss";
+import "./sideBar.css";
 import {
   AttachMoney,
   BarChart,
